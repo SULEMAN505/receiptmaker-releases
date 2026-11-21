@@ -1,6 +1,18 @@
 {
   "purchases": {
     "disabled": true,
-    "message": "Profit section is under maintenance. Back soon!"
+    "message": "Purchases section is under maintenance. Back soon!"
+  },
+  "history": {
+    "disabled": true,
+    "message": "Receipts history is under maintenance. Back soon!"
+  },
+  "profit": {
+    "disabled": true,
+    "message": "Profit report is under maintenance. Back soon!"
+  },
+  "settings": {
+    "disabled": true,
+    "message": "Settings section is under maintenance. Back soon!"
   }
 }
